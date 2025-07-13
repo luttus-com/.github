@@ -1,76 +1,76 @@
-# 🛡️ Luttus · Cybersecurity & Software Development
+# 🛡️ Luttus · Ciberseguridad y Desarrollo de Software
 
-**Luttus** is a cybersecurity and software development company focused on creating secure, high-performance digital solutions for the modern world.
+**Luttus** es una empresa especializada en **ciberseguridad** y **desarrollo de software**, dedicada a construir soluciones digitales seguras, eficientes y de alto rendimiento.
 
-We believe in building with purpose, defending with precision, and delivering with excellence.
-
----
-
-## 🚀 What We Do
-
-🔐 **Cybersecurity Services**
-- Penetration testing (web, mobile, network)
-- Threat detection & prevention
-- Infrastructure hardening
-- Incident response & digital forensics
-- Secure code review
-
-💻 **Software Development**
-- Full-stack web applications (React, Node.js, Go, etc.)
-- Mobile apps (Flutter, React Native)
-- Custom APIs & backend systems
-- DevOps automation & CI/CD pipelines
-- Embedded & low-level systems (IoT, edge devices)
-
-🛠️ **Research & Innovation**
-- Internal tools and frameworks
-- Open-source security projects
-- AI-driven threat modeling
-- Experimental automation scripts
+Creemos en desarrollar con propósito, proteger con precisión y entregar con excelencia.
 
 ---
 
-## 🧠 Why Luttus?
+## 🚀 Qué Hacemos
 
-- 🔒 Security-first architecture in every solution
-- 🧩 Tailor-made systems for mission-critical environments
-- 🧑‍💻 Teams of ethical hackers & senior developers
-- 🌐 Global vision, local execution
+🔐 **Servicios de Ciberseguridad**
+- Pruebas de penetración (web, móvil, redes)
+- Detección y prevención de amenazas
+- Fortalecimiento de infraestructura
+- Respuesta a incidentes y análisis forense digital
+- Revisión de código seguro
 
----
+💻 **Desarrollo de Software**
+- Aplicaciones web full-stack (React, Node.js, Go, etc.)
+- Aplicaciones móviles (Flutter, React Native)
+- APIs personalizadas y sistemas backend
+- Automatización DevOps y CI/CD
+- Sistemas embebidos y de bajo nivel (IoT, edge computing)
 
-## 📁 Repositories Overview
-
-Our GitHub Organization hosts:
-- ⚙️ Internal frameworks & tooling
-- 📦 Public SDKs and security libraries
-- 🛡️ Open-source contributions to the cybersecurity community
-- 🧪 Experimental research and PoCs
-
-> 🔒 Some repositories may be private for confidentiality reasons.
-
----
-
-## 📬 Contact
-
-If you are interested in collaborating, contributing, or hiring our services:
-
-- 📧 **Email**: hello@luttus.dev
-- 🌐 **Website**: [www.luttus.dev](https://www.luttus.dev)
-- 🕵️‍♂️ **PGP Key**: Available upon request for secure communications
+🛠️ **Investigación e Innovación**
+- Herramientas y frameworks internos
+- Proyectos de seguridad open-source
+- Modelado de amenazas con IA
+- Scripts y automatizaciones experimentales
 
 ---
 
-## 🤝 Join Us
+## 🧠 ¿Por Qué Luttus?
 
-We’re always on the lookout for exceptional minds in:
-- Cybersecurity
-- Full-stack engineering
+- 🔒 Arquitectura con enfoque en seguridad desde el diseño
+- 🧩 Soluciones a la medida para entornos críticos
+- 🧑‍💻 Equipo con hackers éticos e ingenieros senior
+- 🌐 Visión global con ejecución local
+
+---
+
+## 📁 Repositorios Públicos
+
+En nuestra organización encontrarás:
+- ⚙️ Frameworks y herramientas internas
+- 📦 SDKs y librerías de seguridad abiertas
+- 🛡️ Contribuciones a la comunidad de ciberseguridad
+- 🧪 Investigación experimental y pruebas de concepto
+
+> 🔒 Algunos repositorios son privados por motivos de confidencialidad.
+
+---
+
+## 📬 Contacto
+
+Si deseas colaborar, contribuir o contratar nuestros servicios:
+
+- 📧 **Correo**: hola@luttus.dev
+- 🌐 **Web**: [www.luttus.dev](https://www.luttus.dev)
+- 🕵️‍♂️ **Clave PGP**: Disponible bajo solicitud para comunicaciones seguras
+
+---
+
+## 🤝 Únete al Equipo
+
+Siempre estamos buscando talento en áreas como:
+- Ciberseguridad
+- Desarrollo Full-stack
 - DevSecOps
-- AI & automation
+- Automatización con IA
 
-Check our open positions or send us a spontaneous application.
+Consulta nuestras vacantes o envíanos una postulación espontánea.
 
 ---
 
-> **Luttus** – Secure by Design. Engineered for Impact.
+> **Luttus** – Seguro por diseño. Ingeniería con impacto.
